@@ -2,4 +2,5 @@
     <string name="app_name">Latihan-collab</string>
     <string name="halaman_register">Ini adalah halaman register\n untuk mengisi data diri</string>
     <string name="register">Register</string>
+    <string name="home">Ini adalah halaman Home</string>
 </resources>
