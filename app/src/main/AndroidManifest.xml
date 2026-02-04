@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Latihancollab">
         <activity
+            android:name="com.example.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
             android:name=".HomeActivity"
             android:exported="false" />
         <activity
